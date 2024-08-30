@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MiniETicaret.Gateway.YARP": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:64625;http://localhost:64626"
+    }
+  }
+}
